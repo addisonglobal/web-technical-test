@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to Addison Global Web Tech test.
+Welcome to the Addison Global Web Tech Test.
 
-The primary goal of this exercise is to assess how you reason about your ability to write clean, well tested and reusable code. There's no hard rules or tricky questions.
+The primary goal of this exercise is to assess how you reason about your ability to write well defined HTML, CSS and JavaScript using the latest patterns and technologies in a mobile first approach. There's no hard rules or tricky questions.
 
 **We hope you have fun.**
 
@@ -14,7 +14,7 @@ The primary goal of this exercise is to assess how you reason about your ability
 
 ## Brief
 
-For this exercise you are required to build a fasst, responsive, mobile first promotions page. This promotions page consists of two views or filters:
+For this exercise you are required to build a fast, responsive, mobile first promotions page. This promotions page consists of two views or filters which exist on a single page:
 * New Customers - a list of promotions only applicable to new customers
 * All Promotions - a list of all promotions
 
@@ -50,19 +50,19 @@ type PromotionType = {
 
 ## Technology
 
-At Addison Global, we're big fans of React and Redux and, as such, we encourage you to solve the task in this stack. Despite this, you are free to use any technology or framework of your choosing.
+Since the purpose of this exercise is to assess your HTML, CSS and JavaScript abilities, we discourage the use of CSS frameworks such as Bootstrap or Material UI but encourage the use of React or any other frontend framework.
 
 ## Screens
 
-The provided screens are a wireframe, not a final design for the application. You are expected to implement the user interface by yourself. The use of component libraries might make this easier for you and is encouraged.
-
-### New Customers Promotions
-
-![New Customers Promotions](img/new-customers-promotions.png "New Customers Promotions")
+The provided screens are a wireframe, not a final design for the application. You are expected to implement the user interface by yourself.
 
 ### All Promotions
 
 ![All Promotions](img/all-promotions.png "All Promotions")
+
+### New Customers Promotions
+
+![New Customers Promotions](img/new-customers-promotions.png "New Customers Promotions")
 
 ## The Deliverable
 
